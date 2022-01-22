@@ -1,16 +1,5 @@
-# instagram_ui
+[](url)
+![Ig UI](https://user-images.githubusercontent.com/33503826/150633867-f34424d5-a25d-41b1-9791-23c8a7501adf.png)
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+try to make IG profile UI with Flutter
